@@ -10,9 +10,9 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3wHESFI"  ><a href="//imgur.com/a/3wHESFI">Gif for First Android App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src='//imgur.com/3wHESFI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).  
